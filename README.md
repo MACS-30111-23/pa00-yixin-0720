@@ -8,7 +8,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * *SLow learner, introverted but really kind, ambitious and persistent*
 * Lists
 ##
-![A picture of me](./baby.png)
+![A picture of me](./baby.jpg)
 * no link
 * Follow CHATGPT
 
