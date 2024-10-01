@@ -7,7 +7,8 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * YIXIN DING HERE
 * *SLow learner, introverted but really kind, ambitious and persistent*
 * Lists
-* ![A picture of me](./yixin/MACSS_math camp/me.png)
+##
+![A picture of me](./yixin/MACSS_math%20camp/me.png)
 * no link
 * Follow CHATGPT
 
